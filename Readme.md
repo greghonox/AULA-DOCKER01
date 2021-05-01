@@ -15,3 +15,5 @@ mysql -uroot -pRootPassword
 
 # RODANDO O DOCKER COMPOSE, NA MESMA PASTA QUE CONTEM docker-compose.yml
 docker-compose up
+# REFERENCIA:
+# https://share.atelie.software/subindo-um-banco-de-dados-mysql-e-phpmyadmin-com-docker-642be41f7638
